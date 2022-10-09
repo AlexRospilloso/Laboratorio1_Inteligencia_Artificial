@@ -1,1 +1,0 @@
-# Laboratorio1_Inteligencia_Artificial
